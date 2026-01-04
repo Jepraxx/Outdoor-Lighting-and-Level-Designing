@@ -1,0 +1,11 @@
+{
+    "asset": "2f65bf198593e034980d9cb94dc90df9",
+    "fileName": "019b889d-4a3c-73db-8aef-94328106f75d.pose.json",
+    "prompt": "swinging a sword",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 408316468,
+    "w3CTraceId": "5a3e3f5964781c00edcc624769a61972",
+    "isTrimmed": false
+}
